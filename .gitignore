@@ -1,0 +1,12 @@
+# 大文件 - 超过 GitHub 限制
+video_resizer/ffmpeg.exe
+video_resizer/ffmpeg.zip
+video_resizer/dist/
+video_resizer/build/
+
+# Python 编译文件
+*.pyc
+__pycache__/
+
+# 备份文件
+*.zip
